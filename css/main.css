@@ -1,0 +1,18 @@
+#first {
+    color: black;
+    background: url(https://1001.ru/media/uploads/dgo4y9wz7p0uc6tk.jpg);
+    height: 350px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#second {
+    height: 25px;
+
+}
+body {
+    color: Black;
+    font-family: Roboto;
+/*    background: url(https://wallpapers.com/images/hd/solid-white-background-t1l5wwmmysyabb12.jpg);*/
+    background-size: cover;
+    background-attachment: fixed;
+}
